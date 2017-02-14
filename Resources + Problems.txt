@@ -1,0 +1,18 @@
+Project Notes
+
+Problems:
+- Score does not count properly when assigned to the parent class "Projectiles"
+- However, it will work when placed on projectile prefab, but this disrupted spawning.
+- Projectile spawning logic written but counting does not work for some reason.
+
+Grenade 1 
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.therealreview.com%2Fwp-content%2Fuploads%2F2015%2F10%2FWine-grenade.png&imgrefurl=https%3A%2F%2Fwww.therealreview.com%2F2015%2F10%2F20%2Fwine-grenade-could-fast-track-maturation%2F&docid=qNGT-QqddHhEzM&tbnid=4SwvAN29O-YpdM%3A&vet=1&w=500&h=250&bih=940&biw=1680&q=transparent%20grenade&ved=0ahUKEwi0zcKx7Y3SAhWM0YMKHdySANgQMwiCAShFMEU&iact=mrc&uact=8#h=250&imgrc=4SwvAN29O-YpdM:&vet=1&w=500
+
+Grenade 2
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fpocgamer.files.wordpress.com%2F2013%2F12%2Fpocgamer-grenade.png&imgrefurl=https%3A%2F%2Fpocgamer.com%2F2014%2F01%2F&docid=BP6QWXCD2JQ9sM&tbnid=WcC6WfYzHkUK7M%3A&vet=1&w=960&h=720&bih=940&biw=1680&q=transparent%20grenade&ved=0ahUKEwi0zcKx7Y3SAhWM0YMKHdySANgQMwhuKDEwMQ&iact=mrc&uact=8#h=720&imgrc=WcC6WfYzHkUK7M:&vet=1&w=960
+
+Killer - Player Character
+Google search for transparent army character 
+
+I made the background music and all of the sound files are from my collection of royalty free/purchased sounds. 
+
